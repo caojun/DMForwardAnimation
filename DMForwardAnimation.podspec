@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "DMForwardAnimation"
   s.version      = "0.0.1"
-  s.summary      = ""
+  s.summary      = "Forward animation"
 
   s.description  = <<-DESC
                    A longer description of DMForwardAnimation in Markdown format.
